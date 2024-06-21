@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+input {
+  width: 260px;
+  height: 15px;
+  padding: 10px;
+  font-size: 18px;
+  outline: none;
+}
+
+.serachResultsContainer {
+  border: 1px solid black;
+  width: 262px;
+  padding: 10px;
+}
+
+.result {
+  margin: 4px;
+}
+
+.result:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
